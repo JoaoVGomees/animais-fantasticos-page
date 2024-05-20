@@ -54,7 +54,7 @@ body::-webkit-scrollbar-track {
 .menu li a {
   display: block;
   padding: 10px;
-  color: #222;
+  color: #3f3f3f;
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
