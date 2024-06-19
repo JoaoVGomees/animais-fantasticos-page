@@ -1,5 +1,4 @@
 import initAccordion from './modules/accordion.js';
-import initAnimaNumeros from './modules/anima-numeros.js';
 import initAnimacaoScroll from './modules/animacao-scroll.js';
 import initDropdownMenu from './modules/dropdown-menu.js';
 import initFuncionamento from './modules/funcionamento.js';
@@ -8,9 +7,9 @@ import initModal from './modules/modal.js';
 import initScrollSuave from './modules/scroll-suave.js';
 import initTabNav from './modules/tabnav.js';
 import initToolTip from './modules/tooltip.js';
+import initFetchAnimais from './modules/fetch-animais.js';
 
 initAccordion();
-initAnimaNumeros();
 initAnimacaoScroll();
 initDropdownMenu();
 initFuncionamento();
@@ -19,3 +18,4 @@ initModal();
 initScrollSuave();
 initTabNav();
 initToolTip();
+initFetchAnimais();
